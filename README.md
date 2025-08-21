@@ -4,7 +4,7 @@
 [![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange?style=flat-square&logo=leetcode)](https://leetcode.com/u/mohamedislam/)
 [![Codeforces](https://img.shields.io/badge/Codeforces-Profile-red?style=flat-square&logo=codeforces)](https://codeforces.com/profile/ISAAA/)
 
-- 📫 How to reach me: mohamedislamm21@gmail.com
+- 📫 reach me at : mohamedislamm21@gmail.com
 
 ## 🛠️ Technologies & Tools
 
