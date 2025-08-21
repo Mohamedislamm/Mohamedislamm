@@ -1,10 +1,9 @@
-# Hi there, I'm Mohamed Islam 👋
+# Hello there, I'm Mohamed Islam 👋
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/mohamed-islamm/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange?style=flat-square&logo=leetcode)](https://leetcode.com/u/mohamedislam/)
 [![Codeforces](https://img.shields.io/badge/Codeforces-Profile-red?style=flat-square&logo=codeforces)](https://codeforces.com/profile/ISAAA/)
 
-- 📫 reach me at : mohamedislamm21@gmail.com
+
 
 ## 🛠️ Technologies & Tools
 
