@@ -1,5 +1,14 @@
 # Hello there, I'm Mohamed Islam 👋
 
+### 📫 How to reach me:
+---
+<a href="mailto:your-email@example.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+</a>
+<a href="https://www.linkedin.com/in/yourprofile/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+
 [![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange?style=flat-square&logo=leetcode)](https://leetcode.com/u/mohamedislam/)
 [![Codeforces](https://img.shields.io/badge/Codeforces-Profile-red?style=flat-square&logo=codeforces)](https://codeforces.com/profile/ISAAA/)
 
