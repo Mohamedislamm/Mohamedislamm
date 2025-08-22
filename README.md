@@ -2,15 +2,18 @@
 
 ### 📫 How to reach me:
 ---
-<a href="mailto:mohamedislamm21@gmail.com">
+<a href="mailto:mohamedislamm21@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
 </a>
 <a href="https://www.linkedin.com/in/mohamed-islamm/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
-
-[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange?style=flat-square&logo=leetcode)](https://leetcode.com/u/mohamedislam/)
-[![Codeforces](https://img.shields.io/badge/Codeforces-Profile-red?style=flat-square&logo=codeforces)](https://codeforces.com/profile/ISAAA/)
+<a href="https://leetcode.com/u/mohamedislam/" target="_blank">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode">
+</a>
+<a href="https://codeforces.com/profile/ISAAA/" target="_blank">
+  <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces">
+</a>
 
 
 
