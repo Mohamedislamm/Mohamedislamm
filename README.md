@@ -1,4 +1,4 @@
-# Hello there, I'm Mohamed Islam 👋
+# 💻 Mohamed Islam
 
 ### 📫 How to reach me:
 ---
