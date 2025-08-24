@@ -15,6 +15,12 @@
   <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces">
 </a>
 
+<hr>
+
+  <a href="mailto:mohamedislamm21@gmail.com">![mohamedislamm21@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
+ <a href="https://www.linkedin.com/in/mohamedislam/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
 ---
 
 ## 🛠️ Technologies & Tools
