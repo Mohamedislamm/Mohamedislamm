@@ -1,7 +1,7 @@
 # 👤 Mohamed Islam
 
 ### 📫 How to reach me:
----
+
 <a href="mailto:mohamedislamm21@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
 </a>
@@ -15,7 +15,7 @@
   <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces">
 </a>
 
-
+---
 
 ## 🛠️ Technologies & Tools
 
