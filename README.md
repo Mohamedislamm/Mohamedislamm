@@ -14,11 +14,11 @@
 
 
 ### Programming Languages
-![Python]
-![C++]
-![C]
-![Java]
-![JavaScript]
+Python |
+C++ |
+C |
+Java |
+JavaScript
 
 ### Web Development
 ![HTML5]
