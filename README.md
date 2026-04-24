@@ -21,16 +21,16 @@ Java |
 JavaScript
 
 ### Web Development
-![HTML5]
-![CSS3]
-![MySQL]
+HTML5 |
+CSS3 |
+MySQL
 
 ### Tools & Concepts
-![Git]
-![GitHub]
-![OOP]
-![Data Structures]
-![Algorithms]
-![Microsoft Office]
+Git |
+GitHub |
+OOP |
+Data Structures |
+Algorithms |
+Microsoft Office
 
 
