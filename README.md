@@ -7,7 +7,15 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <br>
-
+<a href="https://leetcode.com/u/Mohamed_Islam/" target="_blank">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode Badge"/>
+</a>
+<a href="https://codeforces.com/profile/Mohamed_Islam" target="_blank">
+  <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces Badge"/>
+</a>
+<a href="https://vjudge.net/user/Mohamed_Islam" target="_blank">
+  <img src="https://img.shields.io/badge/Vjudge-4B8BBE?style=for-the-badge&logo=virtualjudging&logoColor=white" alt="Vjudge Badge"/>
+</a>
 ---
 
 ## Technologies & Tools :
