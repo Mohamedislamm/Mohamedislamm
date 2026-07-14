@@ -12,28 +12,27 @@
 ---
 
 ---
-## Technologies & Tools :
+I’m an AI Engineer passionate about building intelligent systems. My work spans from building AI agent workflows and RAG pipelines to classical machine learning and time-series forecasting—always focused on robust, data-driven solutions.
 
+### 🛠️ Tech Stack
 
-### Programming Languages
-Python |
-C++ |
-C |
-Java |
-JavaScript
+*   **Languages:** Python, SQL, C/C++, Java
+*   **AI & Data Science:** Scikit-learn, LangChain, Pandas, NumPy, Statsmodels, Meta Prophet, DBSCAN
+*   **Web Frameworks & Databases:** Django, React, MySQL, MS SQL Server, SQLite
+*   **Tools:** Git, GitHub, Jupyter Notebooks, VS Code, Postman
 
-### Web Development
-HTML5 |
-CSS3 |
-MySQL
+---
 
-### Tools & Concepts
-Git |
-GitHub |
-OOP |
-Data Structures |
-Algorithms |
-Microsoft Office
+### 🚀 Highlighted Projects
+
+*   **Tetris AI Genetic Algorithm Optimization**
+    *   Developed an evolutionary AI utilizing Genetic Algorithms and feature extraction (aggregate height, holes, bumpiness) to optimize game-state evaluation in real time.
+*   **AI-Driven Data Deduplication & Forecasting (DART Tech)**
+    *   Engineered a deduplication RAG system using DBSCAN clustering, and deployed time-series forecasting models (Prophet, Exponential Smoothing) to predict business metrics.
+    *   *Python, LangChain, DBSCAN, Prophet*
+*   **ReadIT**
+    *   Built a library web application with role-based user access using object-oriented Django architecture.
+    *   *Django, SQLite, HTML/CSS*
 
 ## Featured Repositories
 
