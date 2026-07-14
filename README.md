@@ -35,4 +35,16 @@ Data Structures |
 Algorithms |
 Microsoft Office
 
+## Featured Repositories
 
+### Core CS
+- [Data-structures](https://github.com/Mohamedislamm/Data-structures)
+- [OS](https://github.com/Mohamedislamm/OS)
+- [Database](https://github.com/Mohamedislamm/Database)
+
+### AI and Research
+- [Machine-learning](https://github.com/Mohamedislamm/Machine-learning)
+- [Logic-reasoning-and-knowledge-Cognitive-science](https://github.com/Mohamedislamm/Logic-reasoning-and-knowledge-Cognitive-science)
+
+### Projects
+- [readit](https://github.com/Mohamedislamm/readit)
