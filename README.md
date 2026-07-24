@@ -1,6 +1,6 @@
 # 👤 Mohamed Islam
 
-### 📫 How to reach me:
+### 📫 Connect:
 
 [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>](https://mail.google.com/mail/?view=cm&fs=1&to=mohamedislamm21@gmail.com)
 [<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>](https://www.linkedin.com/in/mohamed-islamm/)
