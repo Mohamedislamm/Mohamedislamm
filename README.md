@@ -1,6 +1,6 @@
-# Mohamed Islam 👤
+# 👤 Mohamed Islam 
 
-<p align="center">
+<p>
   <b>AI Engineer | Machine Learning Engineer | Software Developer</b><br>
   <i>Bachelor's Graduate in Artificial Intelligence — Cairo University</i>
 </p>
@@ -17,17 +17,23 @@
 
 ---
 
-## 👋 About Me
+## About Me
 
-I’m an **AI Engineer** passionate about building intelligent, production-ready systems. My focus spans **autonomous AI agent workflows**, **RAG pipelines**, **classical machine learning**, and **time-series forecasting**—always driven by robust, scalable architecture.
+* ✦ **Education:** B.Sc. in Artificial Intelligence, Cairo University
+* ✦ **Skills:** Python, PyTorch, LangChain, FastAPI, Docker, Scikit-learn, SQL, Django, React, C++
+* ✦ **Interests:** AI Agents, RAG Workflows, Time-Series Forecasting, Evolutionary Algorithms, Production AI
+* ✦ **Status:** Exempt from military service & ready for full-time engineering roles
 
-- 🎓 **Education:** Cairo University – Faculty of Computers and Artificial Intelligence
-- 💡 **Core Interests:** AI Agents, LLM Fine-Tuning, Computer Vision, Evolutionary Algorithms
-- ⚡ **Status:** Exempt from military service & actively seeking full-time AI/Software Engineering roles
+## Featured Projects
+
+* **[Notive (AI Computer-Use Agent)](https://github.com/Mohamedislamm)** – Autonomous AI desktop agent translating natural language commands into GUI actions using FastAPI, Docker sandboxing, and Claude 3.5 Sonnet.
+* **[ReadIT Library Management](https://github.com/Mohamedislamm/readit)** – Full-stack library web application built with Object-Oriented Django architecture and role-based authorization.
+* **[AI Data Deduplication & Forecasting](https://github.com/Mohamedislamm)** – Enterprise RAG pipeline using DBSCAN clustering for record deduplication combined with Prophet time-series forecasting.
+* **[Tetris AI Genetic Algorithm](https://github.com/Mohamedislamm)** – Evolutionary AI optimizing real-time gameplay heuristic evaluation weights using Genetic Algorithms.
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### **Languages & Core**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -49,23 +55,6 @@ I’m an **AI Engineer** passionate about building intelligent, production-ready
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
-
----
-
-## 🌟 Featured Projects
-
-### 🤖 **[Notive — AI-Powered Computer-Use Agent](https://github.com/Mohamedislamm)**
-- Built an autonomous desktop agent translating natural language commands into GUI actions to automate academic workflows.
-- Designed a **FastAPI** backend & **Electron** interface executing tasks safely inside **Docker** sandboxes via Claude 3.5 Sonnet.
-
-### 🧬 **[Tetris AI — Genetic Algorithm Optimization](https://github.com/Mohamedislamm)**
-- Developed an evolutionary AI utilizing Genetic Algorithms and feature extraction (height, holes, bumpiness) to optimize game-state heuristics in real time.
-
-### 🔍 **[AI-Driven Data Deduplication & Forecasting](https://github.com/Mohamedislamm)** *(DART Tech)*
-- Engineered a deduplication RAG system using **DBSCAN clustering** and deployed time-series models (**Prophet**, Exponential Smoothing) to forecast business metrics.
-
-### 📚 **[ReadIT — Library Management Platform](https://github.com/Mohamedislamm/readit)**
-- Built an OOP-based library web application featuring role-based user access (publishers vs. customers) using **Django** & **SQLite**.
 
 ---
 
