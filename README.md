@@ -4,7 +4,10 @@
   <b>AI/ML engineer and full-stack developer building practical AI-enabled applications with Python, FastAPI, React, and Docker.</b><br>
   <i>Bachelor's Graduate in Artificial Intelligence — Cairo University</i>
 </p>
-
+<p align="center">
+<b><a href="https://mohamedislamm.github.io/Mohamed-Islam-portfolio/" target="_blank" rel="noopener noreferrer">My Portfolio </a><b><br>
+  <b>https://mohamedislamm.github.io/Mohamed-Islam-portfolio/</b><br><br>
+  </p>
 <p align="center">
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=mohamedislamm21@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/></a>
   <a href="https://www.linkedin.com/in/mohamed-islamm/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
