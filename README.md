@@ -9,7 +9,6 @@
 <p align="center">
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=mohamedislamm21@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/></a>
   <a href="https://www.linkedin.com/in/mohamed-islamm/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
-  <a href="https://github.com/Mohamedislamm"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/></a>
   <a href="https://mohamedislamm.github.io/Mohamed-Islam-portfolio/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Portfolio-FFFFFF?style=for-the-badge&logo=firefox&logoColor=black" alt="Portfolio Badge"/></a>
   <br>
   <a href="https://leetcode.com/u/mohamedislam/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode Badge"/></a>
