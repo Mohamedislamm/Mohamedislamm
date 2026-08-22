@@ -32,7 +32,7 @@
 
 * **[Notive (AI Computer-Use Agent)](https://github.com/Mohamedislamm/Notive-ai-agent)** – Autonomous AI desktop agent translating natural language commands into GUI actions using FastAPI, Docker sandboxing, and Claude 3.5 Sonnet.
 * **[ReadIT Library Management](https://github.com/Mohamedislamm/readit)** – Full-stack library web application built with Object-Oriented Django architecture and role-based authorization.
-* **[AI Data Deduplication & Forecasting](Mohamedislamm/Machine-learning-projects)** – Enterprise RAG pipeline using DBSCAN clustering for record deduplication combined with Prophet time-series forecasting.
+* **[AI Data Deduplication & Forecasting](https://github.com/Mohamedislamm/Machine-learning-projects)** – Enterprise RAG pipeline using DBSCAN clustering for record deduplication combined with Prophet time-series forecasting.
 * **[Tetris AI Genetic Algorithm](https://github.com/Mohamedislamm/Machine-learning-projects)** – Evolutionary AI optimizing real-time gameplay heuristic evaluation weights using Genetic Algorithms.
 * **[Full-Stack Task Tracker](https://github.com/Mohamedislamm/Task-tracker-full-stack)** – Task management web application built with React, Flask, REST APIs, and SQLite, featuring persistent task tracking and a modular backend architecture.
 
