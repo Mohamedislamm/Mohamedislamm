@@ -9,7 +9,7 @@
 <p align="center">
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=mohamedislamm21@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/></a>
   <a href="https://www.linkedin.com/in/mohamed-islamm/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
-  <a href="https://mohamedislamm.github.io/Mohamed-Islam-portfolio/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Portfolio-FFFFFF?style=for-the-badge&logo=firefox&logoColor=black" alt="Portfolio Badge"/></a>
+  <a href="https://mohamedislamm.github.io/Mohamed-Islam-Portfolio/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Portfolio-FFFFFF?style=for-the-badge&logo=firefox&logoColor=black" alt="Portfolio Badge"/></a>
   <br>
   <a href="https://leetcode.com/u/mohamedislam/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode Badge"/></a>
   <a href="https://codeforces.com/profile/ISAAA"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces Badge"/></a>
@@ -26,7 +26,7 @@
 *  **Interests:** AI Agents, RAG Workflows, Time-Series Forecasting, Evolutionary Algorithms, Production AI
 *  **Status:** Exempt from military service & ready for full-time engineering roles
 
-*  **Vibe coded portfolio:** https://mohamedislamm.github.io/Mohamed-Islam-portfolio/
+*  **Vibe coded portfolio:** https://mohamedislamm.github.io/Mohamed-Islam-Portfolio/
 
 ## Featured Projects
 
