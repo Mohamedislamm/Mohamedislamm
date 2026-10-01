@@ -13,7 +13,7 @@
   <br>
   <a href="https://leetcode.com/u/mohamedislam/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode Badge"/></a>
   <a href="https://codeforces.com/profile/ISAAA"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces Badge"/></a>
-  <a href="https://vjudge.net/user/ISAAA"><img src="https://img.shields.io/badge/Vjudge-4B8BBE?style=for-the-badge&logo=vjudge&logoColor=white" alt="Vjudge Badge"/></a>
+  <a href="https://vjudge.net/user/ISAAA"><img src="https://img.shields.io/badge/Vjudge-4B8BBE?style=for-the-badge&logoColor=white" alt="Vjudge Badge"/></a>
 </p>
 
 ---
